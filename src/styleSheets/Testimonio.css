@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial;
+}
+
+body {
+    background-color: #eaeaea;
+    font-size: 20px;
+}
+
+#testimony-container {
+    border-radius: 10px;
+    align-items: center;
+    margin-top: 20px;
+    width: 900px;
+    height: 300px;
+    display: flex;
+    text-align: center;
+    box-shadow: 0 3px 13px 1px #c0bdbd;
+}
+
+#testimony {
+    margin-top: 20px;
+    padding: 15px;
+    text-align: justify;
+}
+
+.info {
+    margin-bottom: 15px;
+}
+img {
+    width: auto;
+    height: 100%;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
